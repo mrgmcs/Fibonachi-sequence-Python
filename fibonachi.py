@@ -12,7 +12,7 @@ for i in range(1,n+1):
     m.append(firstnum)
     #add numbers to list
     firstnum=secondnum
-    #new "firts number" 
+    #new "first number" 
     secondnum=newnum
     #new "second number"
     
