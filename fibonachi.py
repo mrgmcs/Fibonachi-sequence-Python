@@ -6,7 +6,7 @@ secondnum=2
 m=list(1)#this sequence has two "1" , and we will append other one in next loop
 
 for i in range(1,n+1):
-    #find next num, "n" times!
+    #calculate numbers before n
     newnum=firstnum+secondnum
     #find new number that is sum of first and second numbers
     m.append(firstnum)
